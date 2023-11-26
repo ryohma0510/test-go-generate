@@ -1,0 +1,6 @@
+package: main
+type: Animal
+values:
+  - Dog
+  - Cat
+  - Bird
